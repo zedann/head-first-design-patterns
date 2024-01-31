@@ -15,7 +15,7 @@ class ConcreteProductA implements ProductA {
   }
 }
 class ConcreteProductB implements ProductB {
-  method(): void {
+ gmethod(): void {
     console.log("Product B method");
   }
 }
