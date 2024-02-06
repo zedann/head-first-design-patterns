@@ -5,7 +5,7 @@ class ConcreteProductA {
     }
 }
 class ConcreteProductB {
-    gmethod() {
+    method() {
         console.log("Product B method");
     }
 }
