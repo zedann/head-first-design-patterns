@@ -17,7 +17,7 @@ class Adaptee {
 }
 
 function client() {
-  const target: ITarget = new Adapter(new Adaptee());
+  const target:ITarget = new Adapter(new Adaptee());
   target.request();
 }
 client();
