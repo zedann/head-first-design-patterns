@@ -1,0 +1,12 @@
+{
+  "name": "head-first-design-patterns",
+  "version": "1.0.0",
+  "description": "# Behavioral Patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
