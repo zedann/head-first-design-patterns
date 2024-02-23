@@ -26,3 +26,4 @@ focus on simplifying the structure of a system by identifying simple ways to rea
 - Facade Pattern
 - Proxy Pattern
 - Adapter Pattern
+- Composite Pattern
