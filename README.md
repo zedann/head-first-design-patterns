@@ -8,6 +8,7 @@ focus on the interaction and communication between objects. These patterns defin
 - Strategy Pattern
 - Command Pattern
 - Template Method Pattern
+- Iterator Pattern
 
 # Creational Patterns
 
